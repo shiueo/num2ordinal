@@ -40,7 +40,7 @@ fn main() {
 ```
 ### Extended Roman Numerals
 ```rust
-use num2ordinal::roman::to_roman;
+use num2ordinal::extended_roman::to_extended_roman;
 
 fn main() {
     let num = 14000;
