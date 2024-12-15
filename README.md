@@ -11,7 +11,7 @@ A simple Rust crate for converting integers to ordinal representations, includin
 Add this to your `Cargo.toml`:
 ```toml
 [dependencies]
-num2ordinal = "0.1"
+num2ordinal = "0.1.2"
 ```
 
 ## Usage
