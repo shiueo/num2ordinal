@@ -5,6 +5,9 @@ authors = [
     "Levi Lim <shiueo.csh@gmail.com>",
 ]
 edition = "2021"
+description = "A simple Rust crate for converting integers to ordinal representations, including support for alphabetic and Roman numeral formats."
+license = "MIT"
+repository = "https://github.com/shiueo/num2ordinal"
 
 [dependencies]
 once_cell = "1.20.2"
