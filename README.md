@@ -50,4 +50,4 @@ fn main() {
 }
 ```
 ## License
-This crate is licensed under the MIT license. See LICENSE for more details.
+This crate is licensed under the MIT license. See [LICENSE](/LICENSE) for more details.
